@@ -159,7 +159,7 @@ h1{
 ```
 
 ## OUTPUT:
-![caloutput](./calci%20output.png)
+![caloutput](./calcioutput.png)
 
 ## Result:
 
